@@ -1,13 +1,15 @@
 # 📚 💰 English Vault
+(잉글리시 금고)
 
 ## 👋 About Me
-      (어 바웃 미)
+(어 바웃 미)
 
 My name is Jiyoung.
 I am learning AI.
 (아임 러닝 AI)
 
 ## 📖 Today`s Words
+(투데이즈 워즈)
 
 - Apple 🍎
 - Book  📓
@@ -18,7 +20,7 @@ I am learning AI.
       (마이 골)
 
 Learn English every day.
-(런 잉글리쉬 에브리 데이)
+(런 잉글리시 에브리 데이)
 👩‍🏫 매일 영어를 배우자.
 🫶✨🎉🎊👑
 
@@ -29,8 +31,8 @@ Learn English every day.
 - GitHub    (깃허브)    : 인터넷 저장소
 - init      (이닛)      : 처음 시작하기
 - commit    (커밋)      : 기록하기
-- git add . (깃 에드 닷) : 저장할 파일을 Git에 담기
-- git commit (깃 커맛)   : Git에 기록하기,저장하기
+- git add . (깃 애드 닷) : 저장할 파일을 Git에 담기
+- git commit (깃 커밋)   : Git에 기록하기,저장하기
 - git push  (깃 푸시)    : GitHub에 업로드하기
 - -m "add today's words" (마이너스 엠 애드 투데이즈 워즈) : 오늘 배운 단어
 - 명령어는 항상 소문자로 입력하고 제목으로 적을 때 첫 글자는 대문자 사용하기.
