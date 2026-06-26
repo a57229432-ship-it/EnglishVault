@@ -22,7 +22,7 @@ Learn English every day.
 👩‍🏫 매일 영어를 배우자.
 🫶✨🎉🎊👑
 
-## 📖 Today's Words
+## 📖 Git & GitHub Terms
 
 - Git       (깃)       : 버전 관리 프로그램
 - GitHub    (깃허브)    : 인터넷 저장소
@@ -34,3 +34,17 @@ Learn English every day.
 - -m "add today's words" (마이너스 엠 애드 투데이즈 워즈) : 오늘 배운 단어
 - 명령어는 항상 소문자로 입력하고 제목으로 적을 때 첫 글자는 대문자 사용하기.
 🎉🎉🎉👑🫶
+
+
+
+## 🎬 Premiere Pro Terms
+(프리미어 프로 텀즈)
+
+## 🤖 AI Agent Terms
+(에이아이 에이전트 텀즈)
+
+## 💭 English Sentences
+(잉글리시 센턴시즈)
+
+## 🏫 Study Log
+(스터디 로그)
