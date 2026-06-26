@@ -40,6 +40,13 @@ Learn English every day.
 ## 🎬 Premiere Pro Terms
 (프리미어 프로 텀즈)
 
+- Premiere Pro (프리미어 프로) : 영상 편집 프로그램
+- Project      (프로젝트)     : 작업 공간 
+- Sequence     (시퀀스)       : 영상을 편집하는 판, 영상 도마
+- Timeline     (타임라인)     : 시간 순서대로 영상을 놓는 공간
+- Clip         (클립 )       : 영상 조각
+한 걸음 한 걸음 나아가자!🦓👣
+
 ## 🤖 AI Agent Terms
 (에이아이 에이전트 텀즈)
 
@@ -48,3 +55,4 @@ Learn English every day.
 
 ## 🏫 Study Log
 (스터디 로그)
+
