@@ -23,6 +23,7 @@ Learn English every day.
 🫶✨🎉🎊👑
 
 ## 📖 Git & GitHub Terms
+(깃 & 깃허브 텀즈)
 
 - Git       (깃)       : 버전 관리 프로그램
 - GitHub    (깃허브)    : 인터넷 저장소
@@ -38,7 +39,7 @@ Learn English every day.
 
 
 ## 🎬 Premiere Pro Terms
-
+(프리미어 프로 텀즈)
 
 - Premiere Pro (프리미어 프로) : 영상 편집 프로그램
 - Project      (프로젝트)     : 작업 공간 
