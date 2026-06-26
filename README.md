@@ -45,6 +45,7 @@ Learn English every day.
 - Sequence     (시퀀스)       : 영상을 편집하는 판,(도화지)
 - Timeline     (타임라인)     : 시간 순서대로 영상을 놓는 공간
 - Clip         (클립 )       : 영상 조각
+
 💪한 걸음 한 걸음 나아가자!🦓👣
 
 ## 🤖 AI Agent Terms
