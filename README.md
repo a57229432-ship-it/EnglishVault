@@ -21,3 +21,16 @@ Learn English every day.
 (런 잉글리쉬 에브리 데이)
 👩‍🏫 매일 영어를 배우자.
 🫶✨🎉🎊👑
+
+## 📖 Today's Words
+
+- Git       (깃)       : 버전 관리 프로그램
+- GitHub    (깃허브)    : 인터넷 저장소
+- init      (이닛)      : 처음 시작하기
+- commit    (커밋)      : 기록하기
+- git add . (깃 에드 닷) : 저장할 파일을 Git에 담기
+- git commit(깃 커맛)    : Git에 기록하기,저장하기
+- git push  (깃 푸시)    : GitHub에 업로드하기
+- -m "add today's words" (마이너스 엠 애드 투데이즈 워즈) : 오늘 배운 단어
+- 명령어는 항상 소문자로 입력하고 제목으로 적을 때 첫 글자는 대문자 사용하기.
+🎉🎉🎉👑🫶
