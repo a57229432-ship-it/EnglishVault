@@ -31,8 +31,8 @@ Learn English every day.
 - GitHub    (깃허브)    : 인터넷 저장소
 - init      (이닛)      : 처음 시작하기
 - commit    (커밋)      : 기록하기
-- git add . (깃 애드 닷) : 저장할 파일을 Git에 담기
-- git commit (깃 커밋)   : Git에 기록하기,저장하기
+- git add . (깃 애드 닷) : 현재 폴더의 변경된 파일을  Git에 담기
+- git commit (깃 커밋)   : Git에 변경 내용을 기록하기
 - git push  (깃 푸시)    : GitHub에 업로드하기
 - -m "add today's words" (마이너스 엠 애드 투데이즈 워즈) : 오늘 배운 단어
 - 명령어는 항상 소문자로 입력하고 제목으로 적을 때 첫 글자는 대문자 사용하기.
@@ -47,7 +47,13 @@ Learn English every day.
 - Project      (프로젝트)      : 작업 공간 
 - Sequence     (시퀀스)        : 영상을 편집하는 판,(도화지)
 - Timeline     (타임라인)      : 시간 순서대로 영상을 놓는 공간
-- Clip         (클립 )        : 영상 조각
+- Clip         (클립)         : 영상 조각
+
+- Import       (임포트)        : 파일 가져오기
+- Export       (익스포트)      : 완성된 영상 내보내기
+- Media        (미디어)        : 영상, 사진, 음악파일
+- Panel        (패널)          : 작업 창
+- WorKspace    (워크스페이스)   : 작업 환경
 
 💪한 걸음 한 걸음 나아가자!🦓👣
 
@@ -59,4 +65,15 @@ Learn English every day.
 
 ## 🏫 Study Log
 (스터디 로그)
+
+## 💡 Content ldeas
+(콘텐츠 아이디어즈)
+
+- 중국 동북 소녀와 AI의 만남
+- 과거의 나와 현재의 내가 만난다면
+- AI와 함께 다시 시작한 49세
+- 49세에 AI를 배우기 시작한 한 사람의 성장 기록 
+- 몇 년 뒤에 첫 커밋을 보면 분명 웃을 거야. 
+ "처음엔 git add . 하나도 헷갈렸는데, 지금은 자연스럽게 쓰네.😝"
+
 
