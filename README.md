@@ -15,6 +15,9 @@ I am learning AI.
 - Book  📓
 - Computer 💻
 - AI 🤖
+- Razor 🪒  면도칼
+
+- Adobe 👩‍💻  어도비
 
 ## 🎯 My Goal.
       (마이 골)
@@ -23,6 +26,20 @@ Learn English every day.
 (런 잉글리시 에브리 데이)
 👩‍🏫 매일 영어를 배우자.
 🫶✨🎉🎊👑
+
+## ✍️ Keyboard Shortcut Terms
+ (키보드 숏트컷 텀즈)
+
+### 🐳 Use the shortcut.
+ (유즈 더 숏트컷)
+  (단축키를 사용하세요.)
+
+- Space     (재생/정지)
+- C         (자르기)
+- V         (선택)
+- Delete    (삭제)
+- Caps Lock (캡스락)
+
 
 ## 📖 Git & GitHub Terms
 (깃 & 깃허브 텀즈)
@@ -55,7 +72,7 @@ Learn English every day.
 - Panel        (패널)          : 작업 창
 - WorKspace    (워크스페이스)   : 작업 환경
 
-💪한 걸음 한 걸음 나아가자!🦓👣
+💪한 걸음 한 걸음 나아가자! 🐢🐌
 
 - Source Monitor   (소스 모니터)      : 원본 영상을 미리 보는 창
 - Program Monitor  (프로그램 모니터)   : 편집 결과를 보는 창
@@ -95,7 +112,7 @@ Learn English every day.
   (실수하면서 더 오래 기억한다는 것을 배웠다.)
 
 - 😉 Today I became a little more confident with Git and GitHub.
- (투에이 아이 비케임 어 리틀 모어 컨피던트 위드 깃 앤드 깃허브)
+ (투데이 아이 비케임 어 리틀 모어 컨피던트 위드 깃 앤드 깃허브)
   (오늘은 Git과 GitHub가 조금 더 자신감이 생겼다.)
 
 ## 💡 Content ldeas
@@ -107,4 +124,40 @@ Learn English every day.
 - 49세에 AI를 배우기 시작한 한 사람의 성장 기록 : 
  "처음엔 git add . 하나도 헷갈렸는데, 지금은 자연스럽게 쓰네.😝"
 
+## 📢 프리미어 프로 성장일기
+ 
+- 🥁 Day 1 첫 컷 편집 성공 ✂️
 
+
+## 🧚 Today's Motto
+ (투데이즈 모토)
+ 🤝 GPT & JY
+
+ ### 🗓️ 2026-06-28
+
+ - 처음이라 서툴러도 멈추지 않으면 실력이 된다.   🗼
+ - 실수는 실패가 아니라 기억을 오래 남기는 공부다. 🍬
+ - 배우는 속도보다 멈추지 않는 것이 더 중요하다.   🐢
+ - 오늘의 작은 한 걸음이 내일의 큰 실력이 된다.   🧗  
+
+ ## 🚀 Next Mission
+  (넥스트 미션)
+
+- Premiere Day 2
+ (프리미어 프로 2일차)
+- Add subtitles
+ (자막 추가하기)
+- Learn Ctrl+K
+ (Ctrl+K 단축키 배우기)
+- Export first video
+ (첫번째 영상 내보내기,저장하기)
+- Upload first TikTok
+ (업로드 퍼스트 틱톡)
+
+
+## 🎉 Completed Missions
+  (컴플리티드 미션즈)
+   (완료한 미션들)
+
+- ✅ Premiere Day 1
+- ✅ First Cut Edit 
