@@ -66,14 +66,39 @@ Learn English every day.
 ## 🏫 Study Log
 (스터디 로그)
 
+### 📅 2026-06-27
+
+- Learned how to update my README.
+ (런드 하우 투 업데이트 마이 리더미)
+ (리드미 수정하는 방법을 배웠다.)
+ 
+- Fixed Git errors and found the correct project folder.
+ (픽스트 깃 에러스 앤드 파운드 더 커렉트 프로젝트 폴더)
+  (Git 오류를 해결하고 올바른 프로젝트 폴더를 찾았다.)
+
+- Successfully uploaded my README to GitHub.
+ (석세스폴리 업로디드 마이 리드미 투 깃허브)
+  (README를 GitHub에 성공적으로 업로드했다.)
+
+- Added Premiere Pro terms and Content Ideas.
+ (애디드 프리미어 프로 텀즈 앤드 콘텐츠 아이디어즈) 
+  (프리미어 프로 용어와 콘텐츠 아이디어를 추가했다.)
+
+- I learned that mistakes help me remembr better.
+ (아이 런드 댓 미스테이크스 헬프 미 리맴버 베터)
+  (실수하면서 더 오래 기억한다는 것을 배웠다.)
+
+- 😉 Today I became a little more confident with Git and GitHub.
+ (투에이 아이 비케임 어 리틀 모어 컨피던트 위드 깃 앤드 깃허브)
+  (오늘은 Git과 GitHub가 조금 더 자신감이 생겼다.)
+
 ## 💡 Content ldeas
 (콘텐츠 아이디어즈)
 
 - 중국 동북 소녀와 AI의 만남
 - 과거의 나와 현재의 내가 만난다면
 - AI와 함께 다시 시작한 49세
-- 49세에 AI를 배우기 시작한 한 사람의 성장 기록 
-- 몇 년 뒤에 첫 커밋을 보면 분명 웃을 거야. 
+- 49세에 AI를 배우기 시작한 한 사람의 성장 기록 : 
  "처음엔 git add . 하나도 헷갈렸는데, 지금은 자연스럽게 쓰네.😝"
 
 
