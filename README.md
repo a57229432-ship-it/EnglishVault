@@ -57,6 +57,12 @@ Learn English every day.
 
 💪한 걸음 한 걸음 나아가자!🦓👣
 
+- Source Monitor   (소스 모니터)      : 원본 영상을 미리 보는 창
+- Program Monitor  (프로그램 모니터)   : 편집 결과를 보는 창
+- Playhead        (플레이헤드)       :  현재 위치를 표시하는 선
+- Track           (트랙)            : 영상과 오디오를 배치하는  줄
+- Cut             (컷)              : 영상을 자르기
+
 ## 🤖 AI Agent Terms
 (에이아이 에이전트 텀즈)
 
