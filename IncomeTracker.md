@@ -10,9 +10,9 @@ This file records my monthly income.
 
 | Date | Day | Income (₩) | Note |
 |------|-----|-----------:|------|
-| 07/01 | Wed | | |
-| 07/02 | Thu | | |
-| 07/03 | Fri | | |
+| 07/01 | Wed | O |425000| 화이팅 |
+| 07/02 | Thu | O |320000|       |
+| 07/03 | Fri | O | |
 | 07/04 | Sat | | |
 | 07/05 | Sun | | |
 | 07/06 | Mon | | |
