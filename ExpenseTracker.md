@@ -23,8 +23,9 @@ This file records my monthly expenses.
 | 🛡 Insurance | Hanwha Life |58576 | |
 | 🛡 Insurance | Post Offlce Insurance|8590| |
 | 🚗 Car | Car Insurance (7667) | | |
-| 🚗 Car | Car Insurance (9768) | | |
-| 🚗 Car | Car Tax |72380,383430  | |
+| 🚗 Car | Car Insurance (9768) |804610 | |
+| 🚗 Car | Car Tax (7667) |72380 | |
+| 🚗 Car | Car Tax (9768) |383430 | |
 | ❤️ Pension | National Pension |426320 | |
 | ❤️ Health | Health Insurance |90420 | |
 | 💡 Utilities | Water | | |
@@ -41,7 +42,7 @@ This file records my monthly expenses.
 | ☁️ Subscription | YouTube Premium | | |
 | ❤️ Donation | Donation |30000 | | 
 
-| 🧮 Total Fixed Expenses |3111103 | | 
+## 🧮 Total Fixed Expenses 3915713(KRW)
 
 
 
