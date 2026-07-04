@@ -1,4 +1,4 @@
-# 🤑 Expense Tracker
+# 🤑 Expense Tracker - July 2026
 
 This file records my monthly expenses.
 
@@ -12,22 +12,22 @@ This file records my monthly expenses.
 
 | Category | Item | Amount (₩) | Paid |
 |----------|------|-----------:|:----:|
-| 🏠 Housing | Rent (월세) |700000 | |
+| 🏠 Housing | Rent (월세) |700,000 | |
 | 🏠 Housing | Maintenance Fee (관리비) |0 | |
-| 🛡 Insurance | Samsung Fire |645088 | |
-| 🛡 Insurance | Hyundai Marine |110700 | |
-| 🛡 Insurance | KB Insurance |273111 | |
-| 🛡 Insurance | KB Life |213000 | |
-| 🛡 Insurance | NH Insurance |53140 | |
-| 🛡 Insurance | Kyobo Medical |46348 | |
-| 🛡 Insurance | Hanwha Life |58576 | |
-| 🛡 Insurance | Post Offlce Insurance|8590| |
+| 🛡 Insurance | Samsung Fire |645,088 | |
+| 🛡 Insurance | Hyundai Marine |110,700 | |
+| 🛡 Insurance | KB Insurance |273,111 | |
+| 🛡 Insurance | KB Life |213,000 | |
+| 🛡 Insurance | NH Insurance |53,140 | |
+| 🛡 Insurance | Kyobo Medical |46,348 | |
+| 🛡 Insurance | Hanwha Life |58,576 | |
+| 🛡 Insurance | Post Offlce Insurance|8,590| |
 | 🚗 Car | Car Insurance (7667) | | |
-| 🚗 Car | Car Insurance (9768) |804610 | |
-| 🚗 Car | Car Tax (7667) |72380 | |
-| 🚗 Car | Car Tax (9768) |383430 | |
-| ❤️ Pension | National Pension |426320 | |
-| ❤️ Health | Health Insurance |90420 | |
+| 🚗 Car | Car Insurance (9768) |804,610 | |
+| 🚗 Car | Car Tax (7667) |72,380 | |
+| 🚗 Car | Car Tax (9768) |383,430 | |
+| ❤️ Pension | National Pension |426,320 | |
+| ❤️ Health | Health Insurance |90,420 | |
 | 💡 Utilities | Water | | |
 | 💡 Utilities | Electricity | | |
 | 💡 Utilities | Internet | | |
@@ -40,7 +40,7 @@ This file records my monthly expenses.
 | ☁ Subscription | Claude | | |
 | ☁ Subscription | Other Subscription | | |
 | ☁️ Subscription | YouTube Premium | | |
-| ❤️ Donation | Donation |30000 | | 
+| ❤️ Donation | Donation |30,000 | | 
 
 ## 🧮 Total Fixed Expenses: 3,915,713(KRW)
 
@@ -57,7 +57,7 @@ This file records my monthly expenses.
 |      | 💄 Beauty | Cosmetics | | |
 |      | 💇 Beauty | Hair / Nails | | |
 |      | 🚕 Transportation | Taxi | | |
-|      | ⛽ Transportation | Fuel | | |
+|      | ⛽ Transportation | Fuel | | | 
 |      | 🚗 Transportation | Parking | | |
 |      | 🎬 Entertainment | Leisure | | |
 |      | 🎁 Gift | Parents | | |
@@ -66,3 +66,20 @@ This file records my monthly expenses.
 |      | 💊 Medical | Medicine | | |
 |      | 📚 Education | Learning | | |
 |      | ☕ Other | Miscellaneous | | |
+
+|      | 🧮 Total Variable Expenses:        (KRW)
+
+
+### 🗓️ Daily Expenses (일일 변동지출)
+
+| Date | Method | Category | Description | Amount (KRW) |
+|------|--------|----------|-------------|--------------|
+| 2026-07-01 | Card | 🍚 Food | 본죽,전주청과 | 48,000 |
+| 2026-07-02 | Card | 🛒 Grocery | 요가매트,과도,밥상 | 42,500 |
+| 2026-07-02 | Card | 🍙 Food | 홍S김밥 | 15,500 |
+| 2026-07-02 | Cash | 🍡 Food | 송편 | 23,000 |
+| 2026-07-04 | Card | 🧋 Cafe | 버블티 | 7,300 |
+
+## 🧾 Total Daily Expenses: 136,300 KRW
+
+
