@@ -10,9 +10,9 @@ This file records my monthly income.
 
 | Date | Day | Income (₩) | Note |
 |------|-----|-----------:|------|
-| 07/01 | Wed | 425000 |    O    |    
-| 07/02 | Thu | 320000 |    O    |
-| 07/03 | Fri | 705000 |    O    |
+| 07/01 | Wed | 425,000 |    O    |    
+| 07/02 | Thu | 300,000 |    O    |
+| 07/03 | Fri | 705,000 |    O    |
 | 07/04 | Sat |        |         |
 | 07/05 | Sun |        |         |
 | 07/06 | Mon |        |         |
@@ -41,6 +41,8 @@ This file records my monthly income.
 | 07/29 | Wed |        |         |
 | 07/30 | Thu |        |         |
 | 07/31 | Fri |        |         |
+
+## 🧮 🧾 Total Variable  Income:        KRW
 
 ---
 
