@@ -12,33 +12,36 @@ This file records my monthly expenses.
 
 | Category | Item | Amount (₩) | Paid |
 |----------|------|-----------:|:----:|
-| 🏠 Housing | Rent (월세) | | |
-| 🏠 Housing | Maintenance Fee (관리비) | | |
-| 🛡 Insurance | Samsung Fire | | |
-| 🛡 Insurance | Hyundai Marine | | |
-| 🛡 Insurance | KB Insurance | | |
-| 🛡 Insurance | KB Life | | |
-| 🛡 Insurance | NH Insurance | | |
-| 🛡 Insurance | Kyobo Medical | | |
-| 🛡 Insurance | Hanwha Life | | |
-| 🛡 Insurance | Heungkuk Life | | |
+| 🏠 Housing | Rent (월세) |700000 | |
+| 🏠 Housing | Maintenance Fee (관리비) |0 | |
+| 🛡 Insurance | Samsung Fire |645088 | |
+| 🛡 Insurance | Hyundai Marine |110700 | |
+| 🛡 Insurance | KB Insurance |273111 | |
+| 🛡 Insurance | KB Life |213000 | |
+| 🛡 Insurance | NH Insurance |53140 | |
+| 🛡 Insurance | Kyobo Medical |46348 | |
+| 🛡 Insurance | Hanwha Life |58576 | |
+| 🛡 Insurance | Post Offlce Insurance|8590| |
 | 🚗 Car | Car Insurance (7667) | | |
 | 🚗 Car | Car Insurance (9768) | | |
-| 🚗 Car | Car Tax | | |
-| ❤️ Pension | National Pension | | |
-| ❤️ Health | Health Insurance | | |
+| 🚗 Car | Car Tax |72380,383430  | |
+| ❤️ Pension | National Pension |426320 | |
+| ❤️ Health | Health Insurance |90420 | |
 | 💡 Utilities | Water | | |
 | 💡 Utilities | Electricity | | |
 | 💡 Utilities | Internet | | |
 | 💡 Utilities | TV | | |
 | 📱 Phone | LG U+ | | |
 | 📱 Phone | KT | | |
+| 📱 phone | SKT |  |  |
 | ☁ Subscription | Google | | |
 | ☁ Subscription | ChatGPT | | |
 | ☁ Subscription | Claude | | |
 | ☁ Subscription | Other Subscription | | |
 | ☁️ Subscription | YouTube Premium | | |
-| ❤️ Donation | Donation | | |
+| ❤️ Donation | Donation |30000 | | 
+
+| 🧮 Total Fixed Expenses |3111103 | | 
 
 
 
