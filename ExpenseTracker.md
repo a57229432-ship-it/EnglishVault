@@ -34,7 +34,7 @@ This file records my monthly expenses.
 | 💡 Utilities | TV | | |
 | 📱 Phone | LG U+ | | |
 | 📱 Phone | KT | | |
-| 📱 phone | SKT |  |  |
+| 📱 Phone | SKT |  |  |
 | ☁ Subscription | Google | | |
 | ☁ Subscription | ChatGPT | | |
 | ☁ Subscription | Claude | | |
@@ -42,7 +42,7 @@ This file records my monthly expenses.
 | ☁️ Subscription | YouTube Premium | | |
 | ❤️ Donation | Donation |30000 | | 
 
-## 🧮 Total Fixed Expenses 3915713(KRW)
+## 🧮 Total Fixed Expenses: 3,915,713(KRW)
 
 
 
