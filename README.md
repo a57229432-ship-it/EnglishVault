@@ -166,3 +166,16 @@ Learn English every day.
 ## 📂 My Files
 
 - 💰 [Income Tracker](IncomeTracker.md)
+
+
+---
+
+## 📊 Monthly Finance Dashboard
+
+**💰 Income:** ₩0
+
+**💸 Expense:** ₩0
+
+**💎 Net Income:** ₩0
+
+**☑️ Best Day:** ________

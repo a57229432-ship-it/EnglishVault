@@ -69,6 +69,9 @@ def calculate_net_income():
     net_income = income - expense
 
     print(f"Net Income: ₩{net_income:,}")
+def update_readme():
+    print("Updating README...")
 calculate_income()
 calculate_expense()
 calculate_net_income()
+update_readme()
