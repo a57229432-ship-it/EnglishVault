@@ -29,10 +29,11 @@ new_text = re.sub(
 )
 
 new_text = re.sub(
-    r"\*\*🧾 Best Day:\*\*.*",
-    f"**🧾 Best Day:** {best_date} (₩{best_amount:,})",
+    r"\*\*.*Best Day:\*\*.*",
+    f"**☑️ Best Day:** {best_date} (₩{best_amount:,})",
     new_text
 )
+
 
 file_path.write_text(new_text, encoding="utf-8")
 

@@ -50,7 +50,7 @@ This file records my monthly income.
 
 **💰 Monthly Total:** ₩1,775,000
 
-**📈 Best Day:** __________
+**☑️ Best Day:** 07/03 (₩705,000)
 
 **📝 Memo:**
 
