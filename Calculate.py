@@ -63,5 +63,12 @@ def calculate_expense():
     file_path.write_text(new_text, encoding="utf-8")
 
     print(f"Expense Total updated: ₩{total:,}")
+def calculate_net_income():
+    income = 1775000
+    expense = 136300
+    net_income = income - expense
+
+    print(f"Net Income: ₩{net_income:,}")
 calculate_income()
 calculate_expense()
+calculate_net_income()
