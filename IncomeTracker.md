@@ -51,7 +51,6 @@ This file records my monthly income.
 **💰 Monthly Total:** ₩0
 
 **☑️ Best Day:**  (₩0)
-
 **📝 Memo:**
 
 -
