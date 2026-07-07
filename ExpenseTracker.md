@@ -80,8 +80,9 @@ This file records my monthly expenses.
 | 2026-07-02 | Cash | 🍡 Food | 송편 | 23,000 |
 | 2026-07-04 | Card | 🧋 Cafe | 버블티 | 7,300 |
 | 2026-07-06 | Card | 🍚 Food | 본죽 | 14,000 |
-| 2026-07-06 | Card | 🍇 Fruit | 전주청과 | 10,000 
+| 2026-07-06 | Card | 🍇 Fruit | 전주청과 | 10,000 |
+| 2026-07-07 | Card | 🍚 Food | 본죽 | 31,500 |
 
-## 📒 Total Variable Expenses: 150,300 KRW
+## 📒 Total Variable Expenses: 191,800 KRW
 
 
