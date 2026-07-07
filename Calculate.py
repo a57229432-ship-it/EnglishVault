@@ -7,7 +7,7 @@ def calculate_income():
     text = file_path.read_text(encoding="utf-8")
 
     rows = re.findall(
-        r"\|\s*(\d{2}/\d{2})\s*\|\s*(\w+)\s*\|\s*([\d,]+)\s*\|",
+       r"\|\s*(\d{4}-\d{2}-\d{2})\s*\|\s*(\w+)\s*\|\s*([\d,]+)\s*\|.*"
         text
     )
 
