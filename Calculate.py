@@ -171,8 +171,47 @@ def update_readme():
 
     print("README updated successfully.")
 
+def update_net_income_history():
+    print("Updating NetIncome history...")
 
+    history_path = Path("NetIncome.md")
+    readme_path = Path("README.md")
+
+    history_text = history_path.read_text(encoding="utf-8")
+    readme_text = readme_path.read_text(encoding="utf-8")
+
+    net_income_match = re.search(
+        r"Net Income:\*\*\s*₩(-?[\d,]+)",
+        readme_text
+    )
+
+    if not net_income_match:
+        print("NetIncome history update failed.")
+        return
+
+    net_income = int(
+        net_income_match.group(1).replace(",", "")
+    )
+
+    month = "2026-07"
+    new_row = f"| {month} | ₩{net_income:,} |"
+
+    month_pattern = rf"(?m)^\|\s*{month}\s*\|.*\|$"
+
+    if re.search(month_pattern, history_text):
+        history_text = re.sub(
+            month_pattern,
+            new_row,
+            history_text
+        )
+    else:
+        history_text = history_text.rstrip() + "\n" + new_row + "\n"
+
+    history_path.write_text(history_text, encoding="utf-8")
+
+    print("NetIncome history updated successfully.")
 calculate_income()
 calculate_expense()
 calculate_net_income()
 update_readme()
+update_net_income_history()
