@@ -166,7 +166,8 @@ Learn English every day.
 ## 📂 My Files
 
 - 💰 [Income Tracker](IncomeTracker.md)
-
+- 💸 [Expense Tracker](ExpenseTracker.md)
+- 💎 [Net Income History](NetIncome.md)
 
 ---
 
