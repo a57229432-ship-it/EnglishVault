@@ -172,10 +172,10 @@ Learn English every day.
 
 ## 📊 Monthly Finance Dashboard
 
-**💰 Income:** ₩0
+**💰 Income:** ₩2,780,000
 
-**💸 Expense:** ₩0
+**💸 Expense:** ₩4,107,513
 
-**💎 Net Income:** ₩0
+**💎 Net Income:** ₩-1,327,513
 
-**☑️ Best Day:** ________
+**☑️ Best Day:** 2026-07-03 (₩705,000)
