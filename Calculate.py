@@ -1,6 +1,6 @@
 from pathlib import Path
 import re
-
+from datetime import datetime
 
 def calculate_income():
     file_path = Path("IncomeTracker.md")
@@ -193,7 +193,7 @@ def update_net_income_history():
         net_income_match.group(1).replace(",", "")
     )
 
-    month = "2026-07"
+    month = datetime.now().strftime("%Y-%m")
     new_row = f"| {month} | ₩{net_income:,} |"
 
     month_pattern = rf"(?m)^\|\s*{month}\s*\|.*\|$"
