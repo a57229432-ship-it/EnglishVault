@@ -64,10 +64,38 @@ def calculate_expense():
 
     print(f"Expense Total updated: ₩{total:,}")
 def calculate_net_income():
-    income = 1775000
-    expense = 136300
-    net_income = income - expense
+    income_text = Path("IncomeTracker.md").read_text(encoding="utf-8")
+    expense_text = Path("ExpenseTracker.md").read_text(encoding="utf-8")
 
+    income_match = re.search(
+        r"Monthly Total:.*?₩?\s*([\d,]+)",
+        income_text
+    )
+
+    fixed_match = re.search(
+        r"Total Fixed Expenses:.*?([\d,]+)",
+        expense_text
+    )
+
+    variable_match = re.search(
+        r"Total Variable Expenses:.*?([\d,]+)",
+        expense_text
+    )
+
+    if not income_match or not fixed_match or not variable_match:
+        print("Net Income calculation failed: totals not found.")
+        return
+
+    income = int(income_match.group(1).replace(",", ""))
+    fixed_expense = int(fixed_match.group(1).replace(",", ""))
+    variable_expense = int(variable_match.group(1).replace(",", ""))
+
+    total_expense = fixed_expense + variable_expense
+    net_income = income - total_expense
+
+    print(f"Total Income: ₩{income:,}")
+    print(f"Total Fixed Expenses: ₩{fixed_expense:,}")
+    print(f"Total Variable Expenses: ₩{variable_expense:,}")
     print(f"Net Income: ₩{net_income:,}")
 def update_readme():
     print("Updating README...")
