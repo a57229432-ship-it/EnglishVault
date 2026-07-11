@@ -82,7 +82,16 @@ This file records my monthly expenses.
 | 2026-07-06 | Card | 🍚 Food | 본죽 | 14,000 |
 | 2026-07-06 | Card | 🍇 Fruit | 전주청과 | 10,000 |
 | 2026-07-07 | Card | 🍚 Food | 본죽 | 31,500 |
+| 2026-07-09 | Card | 🚕 Taxi | 전주 |  5,160 |
+| 2026-07-09 | Card | 🍝 Sajo | 식당 | 50,400 |
+| 2026-07-10 | Card | 💸 UMS  | 수수료 | 1,800 |
+| 2026-07-10 | Card | 🍚 Food | 묵은지 | 113,000 |
+| 2026-07-10 | Card | 🧋 Cafe | 커피 | 4.000 |
+| 2026-07-10 | Card | ⛽ SK Energy | 주유소 | 124,000|
+| 2026-07-11 | Card | 🛒 Mate | 하나로 마트 | 69,000 | 포인트 5만원 사용 |
+| 2026-07-11 | Card | 🏨 Pension | 운림산방 | 80.000 |
+| 2026-07-11 | Cash | 👩 Allowance |용돈 | 150,000|
 
-## 📒 Total Variable Expenses: 191,800 KRW
+## 📒 Total Variable Expenses: 705,160 KRW
 
 

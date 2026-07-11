@@ -179,8 +179,8 @@ Learn English every day.
 
 **💰 Income:** ₩3,530,000
 
-**💸 Expense:** ₩4,107,513
+**💸 Expense:** ₩4,620,873
 
-**💎 Net Income:** ₩-577,513
+**💎 Net Income:** ₩-1,090,873
 
 **☑️ Best Day:** 2026-07-03 (₩705,000)
