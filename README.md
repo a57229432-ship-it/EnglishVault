@@ -169,6 +169,10 @@ Learn English every day.
 - 💸 [Expense Tracker](ExpenseTracker.md)
 - 💎 [Net Income History](NetIncome.md)
 
+## 🚀 Project Status
+
+✅ Finance Automation Project v1.0
+
 ---
 
 ## 📊 Monthly Finance Dashboard
